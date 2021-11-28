@@ -98,7 +98,7 @@ export default function ProdutosListagem() {
               Cadastrar
             </Button>
             <Paper className={classes.paper}>
-                <h2>Listagem de Usuários</h2>
+                <h2>Listagem de Produtos</h2>
                 <Grid container spacing={3}>
                   <Grid item xs={12} sm={12}>
                   <TableContainer component={Paper}>
